@@ -12,18 +12,14 @@ This is a simple calculator program built using Python and the Tkinter library. 
 * Multiplication (*)
 * Division (/)
 
-#Usage:
-
-* Enter the first number in the "Enter First No" field.
-* Enter the second number in the "Enter Second No" field.
-* Select the desired operator from the drop-down menu labeled "Operator."
-* Click the "result" button to calculate the result.
-* The result will be displayed below the button.
-
 #Prerequisites:
 
 * Python 3.x
 * Tkinter library (usually included with Python installation)
+
+#Password Generator:
+
+
 
 #Author:
 
