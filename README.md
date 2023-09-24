@@ -1,7 +1,7 @@
 # CVIP
 Welcome to my Codercave virtual internship repository for Python development! Throughout my internship at Codercave, I'll be using this space to document my journey, showcase my coding projects
 
-#Calculator Program with Tkinter :
+1  #Calculator Program with Tkinter :
 
 This is a simple calculator program built using Python and the Tkinter library. It provides a graphical user interface (GUI) for performing basic arithmetic operations.
 
@@ -17,9 +17,9 @@ This is a simple calculator program built using Python and the Tkinter library. 
 * Python 3.x
 * Tkinter library (usually included with Python installation)
 
-#Password Generator:
+2  #Password Generator:
 
-
+This is a simple Python script that generates random passwords based on user input. It allows users to create complex passwords with a combination of uppercase letters, lowercase letters, digits, and symbols.
 
 #Author:
 
