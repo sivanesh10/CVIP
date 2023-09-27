@@ -17,10 +17,6 @@ This is a simple calculator program built using Python and the Tkinter library. 
 * Python 3.x
 * Tkinter library (usually included with Python installation)
 
-2  #Password Generator:
-
-This is a simple Python script that generates random passwords based on user input. It allows users to create complex passwords with a combination of uppercase letters, lowercase letters, digits, and symbols.
-
 #Author:
 
 Sivanesh R
